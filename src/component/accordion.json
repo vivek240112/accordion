@@ -1,0 +1,28 @@
+
+[
+    {
+                   "id" : 1,
+                   "question": "What is your name and Are you interested in sitecore and explain sitecore?",
+                   "answer" : "My name is Vivek Prajapati yes i'm interested in sitecore. Sitecore is one of the widely deployed enterprise-level CMS software built on ASP.NET and used by organizations around the world to manage websites. It allows content editors and marketers to easily manage tasks like providing personalized experiences, managing social handles, blog posts, eCommerce and more."
+    },
+    {
+                "id" : 2,
+                "question": "What is Core Database in sitecore?",
+                "answer" : "As the name indicates Core Database is the backbone of the Sitecore application and it is used for multiple purposes. The core database contains all Sitecore settings. It contains the definition of Desktop Mode, Content Editor, Page Editor etc. The core database contains data needed by the Content Manager.All the menu items in the Ribbon is stored in the Core Database. In case if you need to create a new menu item in the ribbon you need to add the context and definition in the Core Database."
+    },
+    {
+                "id" : 3,
+                "question": "What are the benefits that Sitecore can offer to Marketers?",
+                "answer" : "Sitecore supports marketers by helping them in performing the below operations: Building personalized campaignsBuilding marketing campaigns Tracking and analytics Single point for gaining visibility into customers Analysis  In offering timely offers"
+    },
+    {
+                "id" : 4,
+                "question" : "What is Sitecore Experience Manager (XM)",
+                "answer" : "Sitecore Experience Manager (XM) is also known as web content management (WCM) and an essential building block of the Sitecore platform. XM comes with a wide range of features to manage the tasks such as content creation, personalization, management,  and publishing of content."
+    },
+    {
+                "id": 5,
+               "question" : "What is Sitecore Experience Platform (XP)",
+                "answer" : "Sitecore Experience Platform (XP) comes with advanced capabilities to combine customer data, AI, analytics, and marketing automation to understand and deliver personalized and real-time content across multiple channels."
+    }
+]
